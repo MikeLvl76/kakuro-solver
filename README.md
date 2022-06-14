@@ -1,8 +1,4 @@
 <div style="text-align: justify">
-# IA
-
-- Année : **2021-2022 (M1 IWOCS)**
-- TP : Projet sur la résolution du Kakuro
 
 # Auteur
 
